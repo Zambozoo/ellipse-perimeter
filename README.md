@@ -7,16 +7,16 @@ First I attempted a crude approximation in Java which I've included for my own r
 
 The resulting equation is:
 
-![equation](https://latex.codecogs.com/png.latex?%5Ccolor%7Bwhite%7DP%20%3D%20a%20%5Cleft%20%28%20%5Cleft%20%28%202%20%5Cpi%20-4%20%5Cright%20%29%20%5Cleft%20%28%5Cfrac%7Bb%7D%7Ba%7D%20%5Cright%20%29%5EE%20&plus;%204%20%5Cright%20%29)
+![equation](https://latex.codecogs.com/png.latex?%5Cpagecolor%7Bwhite%7DP%20%3D%20a%20%5Cleft%20%28%20%5Cleft%20%28%202%20%5Cpi%20-4%20%5Cright%20%29%20%5Cleft%20%28%5Cfrac%7Bb%7D%7Ba%7D%20%5Cright%20%29%5EE%20&plus;%204%20%5Cright%20%29)
 
 Where E is the constant found using least squares curve fitting:
 
-![equation](https://latex.codecogs.com/png.latex?%5Ccolor%7Bwhite%7DE%20%3D%201.458131%20%5Cpm%20.000012)
+![equation](https://latex.codecogs.com/png.latex?%5Cpagecolor%7Bwhite%7DE%20%3D%201.458131%20%5Cpm%20.000012)
 
 I have a couple ideas as to what this constant could be, though I fear hardware limitations and floating-point accuracy could hinder my insights.
 The observed value of E is close to the following values, though I cannot prove it is equivalent to either:
 
-![equation](https://latex.codecogs.com/png.latex?%5Ccolor%7Bwhite%7D%5Cfrac%7B%5Cpi%7D%7B%5Cpi%20-%201%7D) and ![equation](https://latex.codecogs.com/png.latex?%5Ccolor%7Bwhite%7D%5Csqrt%20%5B3%5D%20%7B%5Cpi%7D)
+![equation](https://latex.codecogs.com/png.latex?%5Cpagecolor%7Bwhite%7D%5Cfrac%7B%5Cpi%7D%7B%5Cpi%20-%201%7D) and ![equation](https://latex.codecogs.com/png.latex?%5Cpagecolor%7Bwhite%7D%5Csqrt%20%5B3%5D%20%7B%5Cpi%7D)
 
 Links:
 
