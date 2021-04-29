@@ -6,7 +6,7 @@ Inspired by the videos below of Matt Parker and Three feet of Air, I have devise
 First I attempted a crude approximation in Java which I've included for my own records. I then drafted a python version using scipy.optimize.curve_fit in Python 3.
 
 The resulting equation is:
-<span style="background-color: white">this is red</span>.
+
 ![equation](https://latex.codecogs.com/svg.latex?%5Cpagecolor%7Bwhite%7D%5Ccolor%7Bblack%7DP%20%3D%20a%20%5Cleft%20%28%20%5Cleft%20%28%202%20%5Cpi%20-4%20%5Cright%20%29%20%5Cleft%20%28%5Cfrac%7Bb%7D%7Ba%7D%20%5Cright%20%29%5EE%20&plus;%204%20%5Cright%20%29)
 
 Where E is the constant found using least squares curve fitting:
